@@ -262,7 +262,7 @@
             "description": "The URL of the repository with your application source code.",
             "displayName": "Git URI",
             "required": true,
-            "value": "https://github.com/gpiercey/s2i-aspnet-musicstore-ex.git"
+            "value": "https://github.com/masums/s2i-aspnet-musicstore-ex.git"
         },
         {
             "name": "GIT_REF",
